@@ -1,0 +1,2 @@
+require("davo")
+print("hello")
