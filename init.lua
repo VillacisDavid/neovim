@@ -1,2 +1,1 @@
 require("davo")
-print("hello")
